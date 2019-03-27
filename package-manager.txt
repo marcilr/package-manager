@@ -10,4 +10,4 @@ Links
 =====
 Package manager
 From Wikipedia, the free encyclopedia
-https://en.wikipedia.org/wiki/Package_managaer
+https://en.wikipedia.org/wiki/Package_manager
