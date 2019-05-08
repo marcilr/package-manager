@@ -5,8 +5,17 @@ by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+.gitignore
+  File for git to ignore
+
 links.txt
   Package manager related links
 
+manifest
+  Manifest for resync application
+
 package-manager.txt
   Package manager
+
+yum/
+  Red Hat yum package manager
